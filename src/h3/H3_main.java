@@ -1,7 +1,5 @@
 package h3;
 
-import java.util.Random;
-
 public class H3_main {
     public static void main(String[] args) {
         int i = 0;
